@@ -1,0 +1,25 @@
+i tk2d 1
+w 440
+h 494
+~
+n bunny1_jump
+s 200 94 120 200
+~
+n bunny1_ready
+s 320 94 120 200
+~
+n bunny1_stand
+s 0 294 120 200
+~
+n bunny1_walk1
+s 120 294 120 200
+~
+n bunny1_walk2
+s 240 294 120 200
+~
+n ground_grass
+s 0 0 380 94
+~
+n ground_grass_small
+s 0 94 200 100
+~

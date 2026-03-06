@@ -1,0 +1,18 @@
+i tk2d 1
+w 486
+h 496
+~
+n arrow
+s 435 53 10 45
+o 0 5 10 50
+~
+n gold
+s 435 1 50 50
+~
+n kunai
+s 435 100 20 20
+~
+n spritesheet_jumper
+s 1 1 432 494
+o 0 0 440 494
+~
